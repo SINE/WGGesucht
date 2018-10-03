@@ -1,6 +1,7 @@
 Diese Repository ist als Open-Source Userscript-Sammlung für die Webseite WG-Gesucht angedacht. Die Userscripte sind rein clientseitig per Browser-Addon Tampermonkey bzw. Greasemonkey installierbar.
 
 ####License
+
 MIT
 
 ####Third-Party content
