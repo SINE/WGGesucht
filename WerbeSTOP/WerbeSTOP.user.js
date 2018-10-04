@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name        WG Gesucht WERBUNG STOP ALPHA
 // @namespace   github.com/SINE
-// @version     0.1
-//@updateURL   https://raw.githubusercontent.com/SINE/WGGesucht/master/WerbeSTOP/werbestop.meta.js
+// @version     0.2
+//@updateURL   https://raw.githubusercontent.com/SINE/WGGesucht/master/WerbeSTOP/WerbeSTOP.meta.js
 // @require			https://code.jquery.com/jquery-2.2.0.min.js
 // @include     https://www.wg-gesucht.de/*
 // @grant       GM_getResourceURL
