@@ -2,7 +2,7 @@
 // @name        WG Gesucht WERBUNG STOP ALPHA
 // @namespace   github.com/SINE
 // @author       SINE
-// @version     0.2.1
+// @version     0.2.2
 //@updateURL   https://raw.githubusercontent.com/SINE/WGGesucht/master/WerbeSTOP/WerbeSTOP.meta.js
 // @require			https://code.jquery.com/jquery-2.2.0.min.js
 // @include     https://www.wg-gesucht.de/*
@@ -17,7 +17,7 @@
 // ==/UserScript==
 
 
-var devlogON = 1;
+var devlogON = 0;
 
 
 var outerEntryWrapper = document.querySelector("#master_wrapper #main_content");
